@@ -1,0 +1,34 @@
+{
+    "articles": {
+        "status":true,
+        "message":"success",
+        "data":[
+            {
+                "id": 1,
+                "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
+                "title":"First title",
+                "readingTime": 5
+            },
+            {
+                "id": 2,
+                "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
+                "title": "Second title",
+                "readingTime": 6
+            },
+            {
+                "id": 3,
+                "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
+                "title": "First title",
+                "readingTime": 7
+            },
+            {
+                "id": 4,
+               "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
+                "title": "Second title",
+                "readingTime": 10
+            }
+        ]
+    }
+}
+
+
