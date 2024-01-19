@@ -1,11 +1,12 @@
-.homeWrapper{
-
+.homeWrapper a{
+   width: 23%;
 }
 
 .homeWrapper h2{
- text-align: right;
+ text-align: left;
  margin-top: 60px;
  font-size: 20px;
+ margin-bottom: 20px;
 }
 
 .articles{

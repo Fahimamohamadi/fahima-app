@@ -1,0 +1,26 @@
+.articleWrapper{
+    padding: 0 160px;
+    justify-content: center;
+}
+.articleWrapper p{
+    text-align: left;
+    color:#777;
+}
+.articleWrapper img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   margin-bottom: 10px;
+}
+
+.articleInfo {
+    display: flex;
+    margin-bottom: 10px;
+    flex-direction: row;
+}
+
+.articleInfo span{
+    margin-right: 20px;
+    color:#777;
+}
