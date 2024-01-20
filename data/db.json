@@ -5,7 +5,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
-      "title": "First title",
+      "title": "HTML",
       "readingTime": 5,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -14,7 +14,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
-      "title": "Second title",
+      "title":"CSS",
       "readingTime": 6,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -23,7 +23,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
-      "title": "First title",
+      "title": "JavaScript",
       "readingTime": 7,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -32,7 +32,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
-      "title": "Second title",
+      "title": "jQuery",
       "readingTime": 10,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -41,12 +41,12 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
-      "title": "Fourth title",
+      "title": "Php",
       "readingTime": 5,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
-      "id": "6",
+      "id": "WordPress",
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
@@ -59,7 +59,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
-      "title": "sixth title",
+      "title": "Web Development Basics",
       "readingTime": 7,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -68,18 +68,10 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
-      "title": "Eight title",
+      "title": "Java",
       "readingTime": 10,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
-    },
-    {
-      "id": 9,
-      "author": "Abram",
-      "Date": "2024/01/14",
-      "imageUrl": "https://th.bing.com/th/id/OIP.D4dOrvdvmrJxQqBwe7GYFwHaEo?w=275&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
-      "title": "bcd",
-      "readingTime": "40",
-      "content": "l1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWU\nl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWUl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVtcGVyb3JfQmluZ19BVV8lZTklODAlOWElZTYlOGElOTVfJWU1JWE0JWE3JWU"
     }
+   
   ]
 }
