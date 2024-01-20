@@ -11,13 +11,10 @@ function CreateArticle() {
         author: "",
         date: "",
         title: "",
-        imageURL:"",
+        imageUrl:"",
         readingTime: "",
-        content:"",
-        
-    })
-
-   
+        content:"",   
+    }) 
     const handleChangeArticle = (e) => {
 
         setArticle((prevState) => ({
@@ -38,10 +35,10 @@ function CreateArticle() {
                 "id": 9,
                 "author": article.author,
                 "Date": article.date,
-                "imageUrl": article.imageURL,
+                "imageUrl": article.imageUrl,
                 "title": article.title,
                 "readingTime": article.readingTime ,
-                "content": article.content,
+                "content": article.message,
         })
     }
 
@@ -55,7 +52,7 @@ function CreateArticle() {
                     <Input label="Date" name="date" handleChange={handleChangeArticle} type="text"/>
                     <Input label="Author" name="author" handleChange={handleChangeArticle } type="text" />
                     <Input label="Reading Time" name="readingTime" handleChange={handleChangeArticle} type="text" />
-                    <Input label="Image address" name="imageURL" handleChange={handleChangeArticle} type="text" />
+                    <Input label="Image address" name="imageUrl" handleChange={handleChangeArticle} type="text" />
                     <Textarea label="content"  handleChange={handleChangeArticleMessage} type="text" />
                     <div className={styled.buttonWrapper}>
                         <button onClick={handleCreateNewArticle}>Create Article</button>

@@ -24,8 +24,7 @@ function ArticlePage() {
                 console.log(error);
                 setIsLoading(false)
             });
-
-    }, []);
+    },[]);
 
     return (
         <div>

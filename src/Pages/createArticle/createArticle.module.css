@@ -14,14 +14,18 @@
 }
 
 .buttonWrapper{
+ text-align: left;
+}
+
+.buttonWrapper button{
     padding: 5px 10px;
+    background-color: cornflowerblue;
     color: #fff;
     border-radius: 5px;
     border: none;
     font-size: 16px;
 }
-
-.buttonWrapper button:active{
+.buttonWrapper button:active{                              
     opacity: .8;
 }
 
@@ -35,4 +39,4 @@
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;  
-}
+};

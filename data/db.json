@@ -14,7 +14,7 @@
       "author": "Fahiam",
       "date": "13/01/2024",
       "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
-      "title":"CSS",
+      "title": "CSS",
       "readingTime": 6,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
@@ -71,7 +71,6 @@
       "title": "Java",
       "readingTime": 10,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
-    }
-   
+     }
   ]
 }
