@@ -8,12 +8,13 @@ import axios from "axios";
 
 function CreateArticle() {
     const [article, setArticle] = useState({
+        id:"",
         author: "",
         date: "",
         title: "",
         imageUrl:"",
         readingTime: "",
-        content:"",   
+        message:"",   
     }) 
     const handleChangeArticle = (e) => {
 
@@ -26,15 +27,15 @@ function CreateArticle() {
 
         setArticle((prevState) => ({
             ...prevState,
-            content: e.target.value
+            message: e.target.value
         }));
     };
     
     const handleCreateNewArticle = () => {
         axios.post("http://localhost:8000/articles", {
-                "id": 9,
+                "id": article.id,
                 "author": article.author,
-                "Date": article.date,
+                "date": article.date,
                 "imageUrl": article.imageUrl,
                 "title": article.title,
                 "readingTime": article.readingTime ,
@@ -48,6 +49,7 @@ function CreateArticle() {
             <div className={styled.createArticlePage}>
                 <div className="container">
                     <h1>Create Article</h1>
+                    <Input label="id" name="id" handleChange={handleChangeArticle} type="text" />
                     <Input label="Title" name="title" handleChange={handleChangeArticle} type="text" />
                     <Input label="Date" name="date" handleChange={handleChangeArticle} type="text"/>
                     <Input label="Author" name="author" handleChange={handleChangeArticle } type="text" />
