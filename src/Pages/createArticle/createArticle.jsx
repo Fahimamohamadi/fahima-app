@@ -41,6 +41,22 @@ function CreateArticle() {
                 "readingTime": article.readingTime ,
                 "content": article.message,
         })
+            .then(() => {
+                //Reset the article state to its initial values
+                setArticle({
+                    id:"",
+                    author: "",
+                    date: "",
+                    title: "",
+                    imageUrl:"",
+                    readingTime: "",
+                    message:"", 
+                
+                })
+            })
+            .catch((error) => {
+                 console.error("Error creating article:", error);
+            });
     }
 
     return (
@@ -51,7 +67,7 @@ function CreateArticle() {
                     <h1>Create Article</h1>
                     <Input label="id" name="id" handleChange={handleChangeArticle} type="text" />
                     <Input label="Title" name="title" handleChange={handleChangeArticle} type="text" />
-                    <Input label="Date" name="date" handleChange={handleChangeArticle} type="text"/>
+                    <Input label="Date" name="date" handleChange={handleChangeArticle} type="date"/>
                     <Input label="Author" name="author" handleChange={handleChangeArticle } type="text" />
                     <Input label="Reading Time" name="readingTime" handleChange={handleChangeArticle} type="text" />
                     <Input label="Image address" name="imageUrl" handleChange={handleChangeArticle} type="text" />
