@@ -1,4 +1,3 @@
-/* eslint-disable default-case */
 import { useState } from "react"
 import Navbar from "../../components/Navbar/Navbar"
 import styled from "./createArticle.module.css"
@@ -44,13 +43,13 @@ function CreateArticle() {
             .then(() => {
                 //Reset the article state to its initial values
                 setArticle({
-                    id:"",
-                    author: "",
-                    date: "",
-                    title: "",
-                    imageUrl:"",
-                    readingTime: "",
-                    message:"", 
+                    "id": article.id,
+                    "author": article.author,
+                    "date": article.date,
+                    "imageUrl": article.imageUrl,
+                    "title": article.title,
+                    "readingTime": article.readingTime,
+                    "content": article.message,
                 
                 })
             })
@@ -58,7 +57,7 @@ function CreateArticle() {
                  console.error("Error creating article:", error);
             });
     }
-
+    
     return (
         <>
             <Navbar title="Fahima Blog" />
@@ -67,7 +66,7 @@ function CreateArticle() {
                     <h1>Create Article</h1>
                     <Input label="id" name="id" handleChange={handleChangeArticle} type="text" />
                     <Input label="Title" name="title" handleChange={handleChangeArticle} type="text" />
-                    <Input label="Date" name="date" handleChange={handleChangeArticle} type="date"/>
+                    <Input label="Date" name="date" handleChange={handleChangeArticle} type="text"/>
                     <Input label="Author" name="author" handleChange={handleChangeArticle } type="text" />
                     <Input label="Reading Time" name="readingTime" handleChange={handleChangeArticle} type="text" />
                     <Input label="Image address" name="imageUrl" handleChange={handleChangeArticle} type="text" />

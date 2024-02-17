@@ -3,7 +3,7 @@
     {
       "id": "1",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
       "title": "HTML",
       "readingTime": 5,
@@ -12,7 +12,7 @@
     {
       "id": "2",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
       "title": "CSS",
       "readingTime": 6,
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
       "title": "JavaScript",
       "readingTime": 7,
@@ -30,7 +30,7 @@
     {
       "id": "4",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
       "title": "jQuery",
       "readingTime": 10,
@@ -39,7 +39,7 @@
     {
       "id": "5",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
       "title": "Php",
       "readingTime": 5,
@@ -48,7 +48,7 @@
     {
       "id": "WordPress",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
       "title": "Fifth title",
       "readingTime": 6,
@@ -57,7 +57,7 @@
     {
       "id": "7",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
       "title": "Web Development Basics",
       "readingTime": 7,
@@ -66,7 +66,7 @@
     {
       "id": "8",
       "author": "Fahiam",
-      "date": "13/01/2024",
+      "date": "13-01-2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
       "title": "Java",
       "readingTime": 10,
