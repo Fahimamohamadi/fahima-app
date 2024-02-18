@@ -3,72 +3,72 @@
     {
       "id": "1",
       "author": "Fahiam",
-      "date": "13-01-2024",
-      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
-      "title": "HTML",
+      "date": "13/01/2024",
+      "imageUrl": "https://www.flowerglossary.com/wp-content/uploads/2017/09/aubrieta.jpg",
+      "title": "First Article",
       "readingTime": 5,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "2",
       "author": "Fahiam",
-      "date": "13-01-2024",
-      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
-      "title": "CSS",
+      "date": "13/01/2024",
+      "imageUrl": "https://www.flowerglossary.com/wp-content/uploads/2017/09/alyssum.jpg",
+      "title": "Second Article",
       "readingTime": 6,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "3",
       "author": "Fahiam",
-      "date": "13-01-2024",
+      "date": "13/01/2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
-      "title": "JavaScript",
+      "title": "Third Article",
       "readingTime": 7,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "4",
       "author": "Fahiam",
-      "date": "13-01-2024",
+      "date": "13/01/2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
-      "title": "jQuery",
+      "title": "Fourth Article",
       "readingTime": 10,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "5",
       "author": "Fahiam",
-      "date": "13-01-2024",
-      "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.I2IA5qb5wwMbO0VJUoo6ggAAAA&pid=Api&P=0&h=180",
-      "title": "Php",
+      "date": "13/01/2024",
+      "imageUrl": "https://www.flowerglossary.com/wp-content/uploads/2017/09/alyssum.jpg",
+      "title": "Fifth Article",
       "readingTime": 5,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "WordPress",
       "author": "Fahiam",
-      "date": "13-01-2024",
-      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.YO1oHNvQwKtQYiCaSW7ZKwAAAA&pid=Api&P=0&h=180",
-      "title": "Fifth title",
+      "date": "13/01/2024",
+      "imageUrl": "https://www.flowerglossary.com/wp-content/uploads/2017/09/aubrieta.jpg",
+      "title": "Sixth Article",
       "readingTime": 6,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "7",
       "author": "Fahiam",
-      "date": "13-01-2024",
+      "date": "13/01/2024",
       "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.OfocIHoO7WmQDWU7Fc7B5gHaDr&pid=Api&P=0&h=180",
-      "title": "Web Development Basics",
+      "title": "Seventh Article",
       "readingTime": 7,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     },
     {
       "id": "8",
       "author": "Fahiam",
-      "date": "13-01-2024",
+      "date": "13/01/2024",
       "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.k5awoOc7qjikaRfiwHr0gwHaE8&pid=Api&P=0&h=180",
-      "title": "Java",
+      "title": "Eighth Article",
       "readingTime": 10,
       "content": "In this article we will say hello to React. We'll discover a little bit of detail about its background and use cases, set up a basic React toolchain on our local computer, and create and play with a simple starter app — learning a bit about how React works in the process"
     }
