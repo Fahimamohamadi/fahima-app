@@ -51,7 +51,7 @@ function ArticlePage() {
                             <div className={styled.articleInfo}>
                                 <span>Date: {article.date}</span>
                                 <span>Author: {article.author}</span>
-                                <span>Reading Time: {article.readingTime}</span>
+                                <span>Reading Time: {article.readingTime} minute</span>
                             </div>
                             <img src={article.imageUrl} alt="eagle" />
                             <p>{article.content}</p>
